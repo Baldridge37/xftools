@@ -33,3 +33,7 @@ Once all gffs have been edited you can move them back or rename them
 ```
 mv file.gff_mod file.gff
 ```
+
+## Memory usage
+
+To combine two w1.gffs (1.4Gb and 761Mb) used 3.5Gb of RAM
